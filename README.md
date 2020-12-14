@@ -1,2 +1,2 @@
-##### Penjelasan Mengenai Git dan Github
+# Penjelasan Mengenai Git dan Github
 
