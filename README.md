@@ -10,16 +10,16 @@ Sebelum kita mengenal apa itu Git dan Github, ada baiknya kita mengetahui dulu m
 
 Untuk mengetahui bagaimana menggunakan git, berikut perintah-perintah dasar git:
 
-### Unordered List
-Git init : untuk membuat repository pada file lokal yang nantinya ada folder .git
-Git status : untuk mengetahui status dari repository lokal
-Git add : menambahkan file baru pada repository yang dipilih
-Git commit : untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository.
-Git push : untuk mengirimkan perubahan file setelah di commit ke remote repository.
-Git branch : melihat seluruh branch yang ada pada repository
-Git checkout : menukar branch yang aktif dengan branchyang dipilih
-GIt merge : untuk menggabungkan branch yang aktif dan branch yang dipilih
-Git clone : membuat Salinan repository lokal
+### Unordered Lists
+- Git init: untuk membuat repository pada file lokal yang nantinya ada folder .git
+- Git status: untuk mengetahui status dari repository lokal
+- Git add: menambahkan file baru pada repository yang dipilih
+- Git commit: untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository.
+- Git push: untuk mengirimkan perubahan file setelah di commit ke remote repository.
+- Git branch: melihat seluruh branch yang ada pada repository
+- Git checkout: menukar branch yang aktif dengan branchyang dipilih
+- Git merge: untuk menggabungkan branch yang aktif dan branch yang dipilih
+- Git clone: membuat Salinan repository lokal
 
 ## Github
 GitHub adalah penyimpanan terbesar untuk repositori Git dan Github adalah pusat kolaborasi untuk pengembangan proyek. Sebagian besar dari semua repositori Git tersimpan di GitHub, dan  banyak  proyek open source  menggunakan Github  untuk  menyimpan Git,  memecahkan masalah, menyusun kode, dan hal-hal lainnya.
