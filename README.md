@@ -10,7 +10,7 @@ Sebelum kita mengenal apa itu Git dan Github, ada baiknya kita mengetahui dulu m
 
 Untuk mengetahui bagaimana menggunakan git, berikut perintah-perintah dasar git:
 
-# unordered list
+### Unordered List
 Git init : untuk membuat repository pada file lokal yang nantinya ada folder .git
 Git status : untuk mengetahui status dari repository lokal
 Git add : menambahkan file baru pada repository yang dipilih
